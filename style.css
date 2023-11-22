@@ -1,0 +1,28 @@
+body {
+    background: #d5a7ced8;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: black;
+    overflow: stable !important;
+}
+
+h5 {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    padding: 3px;
+    font-size: 17px;
+    letter-spacing: normal;
+}
+
+#footer {
+    bottom: 0;
+    position: absolute;
+    margin-left: 620px;
+    text-align: center;
+}
+
+input {
+    padding: 3px;
+    border-radius: 10px;
+    font-size: 16px;
+}
